@@ -1,0 +1,15 @@
+  @charset="utf-8";
+             body{
+           background-image:url("images/04.jpg");
+        }
+            h4{
+                color: blueviolet;
+            }
+            p{
+                color:brown;
+            }
+            h3{
+                background-color: aquamarine;text-align: center 
+            }
+            
+    
