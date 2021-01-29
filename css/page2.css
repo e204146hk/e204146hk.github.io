@@ -1,0 +1,119 @@
+
+div.title{
+    color: white;
+   margin: auto;
+    width: 1000px;
+    height: 65px;
+    background-color: saddlebrown;
+    
+    text-align: left;
+    font-size: 50px;
+    font-family:"Impact";
+    margin-bottom:10px;
+    padding: 10px 0px 0px 20px;
+}
+
+div.menu{
+     margin: auto;
+    font-size: 0;
+    width: 1000px;
+}
+
+span.menuitems{
+    text-align: center;
+    
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 40px;
+    background-color: burlywood;
+    font-size: 30px;
+    font-family:"Impact";
+    border: 5px double black;
+    margin-bottom: 10px;
+}
+
+
+
+span.menuitem{
+     text-align: center;
+    color: brown;
+    display: inline-block;
+   vertical-align: top;
+    width: 236px;
+    height: 40px;
+    background-color: burlywood;
+    font-size: 30px;
+    font-family:"Impact";
+    border: 5px double brown;
+    
+}
+
+
+div#kenta{
+    
+     color: sandybrown;
+    width: 1000px;
+   
+    background-color:rebeccapurple; 
+    text-align: center;
+    font-size: 50px;
+    font-family:"Impact";
+    margin: auto;
+     margin-bottom:10px;
+    border: 8px double black;
+}
+
+div.images{
+background-color: black;
+    margin: auto;    
+     font-size: 10px;
+    width: 1000px;
+    
+}
+
+span.image1{
+    display: inline-block;
+　text-align: center;
+    
+}
+
+
+
+
+
+div.article{
+    margin: auto;
+    width: 1000px;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+
+
+div.footer{
+    vertical-align: bottom;
+     margin: auto;
+    width: 1000px;
+    color: burlywood;
+    background-color:bisque;
+    text-align: left;
+    font-size: 20px;
+    font-family:"Impact";
+    margin-top: 20px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
